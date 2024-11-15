@@ -102,3 +102,16 @@
 // };
 
 // window.alert(add(aNumber));
+
+// EXO 5.7
+const aNumber = Number(prompt('Tapez un nombre'));
+
+function facto (a){
+    let produit = 1;
+    for (let i = 1; i <= a; i += 1){
+        produit =  produit * i;
+    };
+    return produit
+};
+window.alert(facto(aNumber));
+

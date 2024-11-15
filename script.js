@@ -81,4 +81,24 @@
 // };
 // window.alert(suiteNombres);
 
- 
+// EXO 5.5
+// const aNumber = Number(prompt('Tapez un nombre'));
+// let multiplication = "";
+// let multiTabl = "";
+// for (let i = 1; i<= 10; i +=1){
+//     multiplication = aNumber * i;
+//     multiTabl += aNumber + " x " + i + " = " + multiplication + '\n' ;
+// };
+// window.alert(multiTabl);
+
+// EXO 5.6 
+// const aNumber = Number(prompt('Tapez un nombre'));
+// function add (a){
+//     let sum = 0 ;
+//     for (let i = 0; i <= a; i += 1){
+//         sum += i;
+//     };
+//     return sum;
+// };
+
+// window.alert(add(aNumber));

@@ -61,3 +61,24 @@
 // };
 
 // EXO 5.3
+// let aNumber = Number(prompt('Tapez un nombre'));
+// let suiteNombres = "";
+// let a = 0;
+
+// while (a < 10){
+//     aNumber = aNumber + 1;
+//     suiteNombres += aNumber + " ";
+//     a += 1;
+// };
+// window.alert(suiteNombres);
+
+// EXO 5.4
+// let aNumber = Number(prompt('Tapez un nombre'));
+// let suiteNombres = "";
+// for (let i = 0; i < 10; i += 1){
+//     aNumber = aNumber + 1;
+//     suiteNombres += aNumber + " ";
+// };
+// window.alert(suiteNombres);
+
+ 
